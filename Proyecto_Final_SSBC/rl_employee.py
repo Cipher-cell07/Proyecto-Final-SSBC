@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 22 18:54:01 2023
-
-@author: DanielVazquez
-"""
 #Librerias
 import pandas as pd
 import numpy as np
